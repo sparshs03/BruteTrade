@@ -10,7 +10,7 @@ Return of Using a MA-90 and MA-200 CrossOver on those 2 weeks on XAUUSD
 ![](Misc/results.png)
 
 
-#Obstacles
+# Obstacles
 
 - Determine when to update parameters
 - Find a Trading System that uses an edge (not just MA-Crossover)
