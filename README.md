@@ -1,6 +1,6 @@
 # BruteTrade
 
-BruteTrade is a PoC to showcase how Brute-Forceing certain parameters can be utilized in a system to find potential Market 
+BruteTrade is a PoC to showcase how Brute-Forceing certain parameters can be utilized in a system to find potential Market Bias
 
 
 ![](Misc/BT-Demo.gif)
