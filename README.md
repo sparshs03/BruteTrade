@@ -13,4 +13,5 @@ Return of Using a MA-90 and MA-200 CrossOver on those 2 weeks on XAUUSD
 Uses BackTesting.py and TALib
 
 https://kernc.github.io/backtesting.py/
+
 https://github.com/mrjbq7/ta-lib
